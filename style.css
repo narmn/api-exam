@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    height: 100vh;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    width: 100% ;
+    height: 30vh;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+   
+   
+
+}
+.nav-links{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+
+
+}
+
+.nav-links a{
+    color: #000;
+    font-weight: 700;
+    font-size: 1.5vw;
+}
+.nav-links button{
+    height: 50px;
+    width: 70px;
+    background-color: #58B19F;
+    color: aliceblue;
+    border-radius: 40%;
+    gap: 30px;
+}
+
+
+#myproducts{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+   grid-gap: 50px;
+   margin: 50px auto;
+   max-width: 1240px;
+   padding: 20px;
+
+}
+
+.card{
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.25);
+    padding: 20px;
+    gap: 20px;
+    height: 500px;
+}
+
+.card image{
+   width: 100%;
+   display: block;
+
+}
+
+.card h1{
+   display: flex;
+   padding-top: 30px;
+   font-weight: 600;
+   font-size: 1.5vw;
+
+
+}
+card p{
+   text-align: center;
+   display: flex;
+   padding: 20px;
+   gap: 20px;
+   font-weight: 400;
+   font-size: 1vw;
+   color: #596275;
+ 
+
+}
+
+.card h3{
+   font-weight: 700;
+   font-size: 20px;
+   color: #4c5c88;
+   padding: 30px 0;
+   font-family: sans-serif;
+   text-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+   display: block;
+}
+
+button{
+    border: 2px solid  #82589F ;
+    padding: 10px;
+    gap: 20px;
+    color: #82589F;
+    background-color:#e0e6b2;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 1vw;
+    font-weight: 700;
+    cursor: pointer;
+
+}
+button:hover{
+    opacity: 0.5; 
+}
+
+
+.stock {
+    transition: .5s ease;
+    opacity: 0;
+    -ms-transform: translate(0%, 0%);
+    transform: translate(0%, 0%);
+    
+  }
+  
+  .stock h2{
+    background-color:#38ada9 ;
+    color: white;
+    font-size: 1vw;
+    padding: 16px 32px;
+  }
+  .card:hover .img {
+    opacity: 0.3;
+  }
+  
+  .card:hover .stock {
+    opacity: 1;
+  }

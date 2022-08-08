@@ -1,0 +1,101 @@
+ [{
+    "id": 101212,
+    "productImage": "./images/1.jpg",
+    "productName": "Noutbuk Huawei MateBook D15",
+    "info": "8Gb Ram 256GB Ssd Windows 10  Grey",
+    "price": 1499, 
+    "inStock": "Stokda var"
+
+ },
+ {
+    "id": 101213,
+    "productImage": "./images/2.jpg" ,
+    "productName": "Noutbuk Acer Swift 3 SF31651",
+    "info": "8 Gb Ram 256Gb Ssd Grey",
+    "price": 2049, 
+    "inStock": "Stokda yoxdur"
+
+ },
+ {
+    "id": 101312,
+    "productImage": "./images/3.jpg" ,
+    "productName": "Noutbuk Acer EX21531",
+    "info": "N4020 4 Gb Ram 256Gb Ssd Black",
+    "price": 849, 
+    "inStock": "Stokda var"
+
+ },
+ {
+    "id": 111212,
+    "productImage": "./images/4.jpg" ,
+    "productName": "Noutbuk HP 250",
+    "info": "G8 4 Gb Ram Black",
+    "price": 1149, 
+    "inStock": "Stokda var"
+
+ },
+ {
+    "id": 141212,
+    "productImage": "./images/5.jpg" ,
+    "productName": "Noutbuk Acer Concept D 3 Ezel Pro",
+    "info": "6 Gb Ram White",
+    "price": 4949, 
+    "inStock": "Stokda var"
+
+ },
+ {
+    "id": 103312,
+    "productImage": "./images/6.jpg" ,
+    "productName": "Noutbuk Acer Aspire A315 57G",
+    "info": "8Gb Ram 1Tb Hdd  128Gb Ssd Mx330 2Gb Black",
+    "price": 1699, 
+    "inStock": "Stokda yoxdur"
+
+ },
+ {
+    "id": 221212,
+    "productImage": "./images/7.jpg" ,
+    "productName": "Noutbuk HP PROBOOK 450 i5-1135G7",
+    "info": "8GB 512GB SSD Silver",
+    "price": 1999, 
+    "inStock": "Stokda var"
+
+ },
+ {
+    "id": 381212,
+    "productImage": "./images/8.jpg" ,
+    "productName": "Noutbuk HP 255 G8 UMA RyzeN7 5700U",
+    "info": "8GB 256GB SSD Black",
+    "price": 1549, 
+    "inStock": "Stokda var"
+
+ },
+ {
+    "id": 148212,
+    "productImage": "./images/9.jpg" ,
+    "productName": "Noutbuk ASUS VIVOBOOK 15.6 E317 57G",
+    "info": "256GB Transparent Silver",
+    "price": 1699, 
+    "inStock": "Stokda var"
+
+ },
+ {
+    "id": 102572,
+    "productImage": "./images/10.jpg" ,
+    "productName": "Noutbuk HP Pavilion Ryzen 5-5500U",
+    "info":"256GB  Natural silver",
+    "price": 1599, 
+    "inStock": "Stokda var"
+
+ },
+ {
+    "id": 151412,
+    "productImage": "./images/11.jpg" ,
+    "productName": "Noutbuk HP 15sfq2032ur",
+    "info": "256GB SSD Natural silver",
+    "price": 1299, 
+    "inStock": "Stokda var"
+
+ }
+ 
+]
